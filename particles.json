@@ -1,0 +1,267 @@
+[
+    {
+        "japanese": "は",
+        "english": "Topic marker, contrast marker",
+        "url": "01wa.html"
+    },
+    {
+        "japanese": "が",
+        "english": "Subject marker, but, however",
+        "url": "02ga.html"
+    },
+    {
+        "japanese": "も",
+        "english": "Also, too, even",
+        "url": "03mo.html"
+    },
+    {
+        "japanese": "ても・でも",
+        "english": "Even if, even though",
+        "url": "04temo.html"
+    },
+    {
+        "japanese": "でも",
+        "english": "But, however, even so",
+        "url": "05demo.html"
+    },
+    {
+        "japanese": "と",
+        "english": "And, with, when, if",
+        "url": "06to.html"
+    },
+    {
+        "japanese": "とは",
+        "english": "As for, speaking of",
+        "url": "07towa.html"
+    },
+    {
+        "japanese": "や",
+        "english": "And, or, such things as",
+        "url": "08ya.html"
+    },
+    {
+        "japanese": "とか",
+        "english": "Such things as, or something like that",
+        "url": "09toka.html"
+    },
+    {
+        "japanese": "など",
+        "english": "Et cetera, and so on",
+        "url": "10nado.html"
+    },
+    {
+        "japanese": "か",
+        "english": "Question marker, or",
+        "url": "11ka.html"
+    },
+    {
+        "japanese": "で",
+        "english": "At, in, by means of",
+        "url": "12de.html"
+    },
+    {
+        "japanese": "に",
+        "english": "To, at, in, for",
+        "url": "13ni.html"
+    },
+    {
+        "japanese": "へ",
+        "english": "Towards, to",
+        "url": "14e.html"
+    },
+    {
+        "japanese": "から",
+        "english": "From, since, because",
+        "url": "15kara.html"
+    },
+    {
+        "japanese": "まで",
+        "english": "Until, up to, as far as",
+        "url": "16made.html"
+    },
+    {
+        "japanese": "の",
+        "english": "Possessive, nominalizer",
+        "url": "17no.html"
+    },
+    {
+        "japanese": "を",
+        "english": "Object marker",
+        "url": "18o.html"
+    },
+    {
+        "japanese": "くらい・ぐらい",
+        "english": "About, approximately",
+        "url": "19kurai.html"
+    },
+    {
+        "japanese": "ほど",
+        "english": "Extent, degree, as much as",
+        "url": "20hodo.html"
+    },
+    {
+        "japanese": "ばかり",
+        "english": "Only, just, about to",
+        "url": "21bakari.html"
+    },
+    {
+        "japanese": "だけ",
+        "english": "Only, just, as much as",
+        "url": "22dake.html"
+    },
+    {
+        "japanese": "しか",
+        "english": "Only, nothing but",
+        "url": "23shika.html"
+    },
+    {
+        "japanese": "のみ",
+        "english": "Only, nothing but",
+        "url": "24nomi.html"
+    },
+    {
+        "japanese": "きり",
+        "english": "Only, just, since",
+        "url": "25kiri.html"
+    },
+    {
+        "japanese": "ので",
+        "english": "Because, since",
+        "url": "26node.html"
+    },
+    {
+        "japanese": "もので",
+        "english": "Because, since",
+        "url": "27monode.html"
+    },
+    {
+        "japanese": "けれども",
+        "english": "But, however, although",
+        "url": "28keredomo.html"
+    },
+    {
+        "japanese": "ところで",
+        "english": "By the way, speaking of which",
+        "url": "29tokorode.html"
+    },
+    {
+        "japanese": "のに",
+        "english": "Although, despite, in spite of",
+        "url": "30noni.html"
+    },
+    {
+        "japanese": "くせに",
+        "english": "Although, despite, in spite of",
+        "url": "31kuseni.html"
+    },
+    {
+        "japanese": "ものの",
+        "english": "Although, but",
+        "url": "32monono.html"
+    },
+    {
+        "japanese": "ところが",
+        "english": "However, but",
+        "url": "33tokoroga.html"
+    },
+    {
+        "japanese": "ば",
+        "english": "If, when",
+        "url": "34ba.html"
+    },
+    {
+        "japanese": "たら",
+        "english": "If, when, after",
+        "url": "35tara.html"
+    },
+    {
+        "japanese": "なら",
+        "english": "If, as for",
+        "url": "36nara.html"
+    },
+    {
+        "japanese": "ものなら",
+        "english": "If possible, if one could",
+        "url": "37mononara.html"
+    },
+    {
+        "japanese": "ところ",
+        "english": "Point, place, situation",
+        "url": "38tokoro.html"
+    },
+    {
+        "japanese": "ものを",
+        "english": "Although, but",
+        "url": "39monoo.html"
+    },
+    {
+        "japanese": "ながら",
+        "english": "While, although, despite",
+        "url": "40nagara.html"
+    },
+    {
+        "japanese": "たり",
+        "english": "Do such things as, and things like that",
+        "url": "41tari.html"
+    },
+    {
+        "japanese": "し",
+        "english": "And, moreover, because",
+        "url": "42shi.html"
+    },
+    {
+        "japanese": "とも",
+        "english": "Even if, even though",
+        "url": "43tomo.html"
+    },
+    {
+        "japanese": "やら",
+        "english": "Such things as, or something",
+        "url": "44yara.html"
+    },
+    {
+        "japanese": "だの",
+        "english": "Such things as, and things like that",
+        "url": "45dano.html"
+    },
+    {
+        "japanese": "なり",
+        "english": "Or, either...or",
+        "url": "46nari.html"
+    },
+    {
+        "japanese": "ては・では",
+        "english": "If, when, in case of",
+        "url": "47tewa.html"
+    },
+    {
+        "japanese": "どころ",
+        "english": "Far from, not at all",
+        "url": "48dokoro.html"
+    },
+    {
+        "japanese": "として",
+        "english": "As, in the role of",
+        "url": "49toshite.html"
+    },
+    {
+        "japanese": "より",
+        "english": "Than, more than, from",
+        "url": "50yori.html"
+    },
+    {
+        "japanese": "さえ",
+        "english": "Even, only, as long as",
+        "url": "51sae.html"
+    },
+    {
+        "japanese": "すら",
+        "english": "Even, not even",
+        "url": "52sura.html"
+    },
+    {
+        "japanese": "こそ",
+        "english": "Emphasis, precisely",
+        "url": "53koso.html"
+    }
+] 
